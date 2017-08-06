@@ -27,15 +27,4 @@ low=mid+1;
 flag=1;
 break;
 
-}
-else
-{
-high=mid-1;
-flag=1;
-break;
-
-}
-}
-printf("element found at position %d \n",mid+2);
-}
 
